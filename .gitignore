@@ -1,2 +1,9 @@
+# Ignoriere die virtuelle Umgebung
+venv/
+
+# Andere Dateien und Ordner, die ignoriert werden sollen
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
 .*
